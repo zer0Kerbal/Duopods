@@ -5,7 +5,8 @@
 ![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)
 
 Original License: MIT
-Game Version: 1.2.2
+Current License: GPLv2
+Game Version: 1.7.3
 
 So you got that first rescue contract but where to put your passenger? If you like to play stock, but need a 2 person command pod Duopods is for you. It consists of three 2 kerbal command pods:
 
@@ -20,6 +21,6 @@ Also included is a 1.825m heat shield.
 
 ![Duo Pods](https://raw.githubusercontent.com/zer0Kerbal/DuoPods/master/img/lineup.png)
 
-![Spacedock] (https://spacedock.info/mod/1222/Duopods)
+![Spacedock] (https://spacedock.info/mod/1222)
 
 ![Spacedock](https://spacedock.info/content/duopods_10573/Duopods/Duopods-1487592068.7861338.png)
