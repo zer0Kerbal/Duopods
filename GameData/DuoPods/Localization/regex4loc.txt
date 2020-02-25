@@ -1,0 +1,5 @@
+([[:word:]]+)( = )
+^^^ this finds [words][ = ]
+
+\1\2#KDEX_\1 // #KDEX_\1\2
+^^^ replace #KDEX_ with prefix
