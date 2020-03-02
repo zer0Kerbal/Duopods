@@ -35,7 +35,7 @@ So you got that first rescue contract but where to put your passenger? If you li
 
 ### Requires 
 - [Kerbal Space Program](https://kerbalspaceprogram.com)
- * [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)
+- [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)
 
 ### Supports
 - [Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
@@ -64,8 +64,8 @@ License: MIT
 [Source] (https://spacedock.info/mod/1222)
 
 <a href="https://github.com/zer0Kerbal/DuoPods/releases/latest" target="_blank"><img src="https://i.imgur.com/RE4Ppr9.png"/></a>
-<a href="https://spacedock.info/mod/2347" target="_blank"><img src="https://i.imgur.com/m0a7tn2.png"/></a>
-<a href="https://www.curseforge.com/kerbal/ksp-mods/stork-delivery-system-sds" target="_blank"><img src="https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png"/></a>  
+<a href="https://spacedock.info/mod/2357" target="_blank"><img src="https://i.imgur.com/m0a7tn2.png"/></a>
+<a href="https://www.curseforge.com/kerbal/ksp-mods/duopods" target="_blank"><img src="https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png"/></a>  
 ###### v0.0.4.0 original: 17 Jul 2018 zed'K | updated: 24 Feb 2020 zed'K
 <!--
 CC BY-NC-SA-4.0
