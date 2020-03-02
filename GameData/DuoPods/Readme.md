@@ -34,15 +34,15 @@ So you got that first rescue contract but where to put your passenger? If you li
 <hr>
 
 ### Requires 
-- [Kerbal Space Program](https://kerbalspaceprogram.com) v1.7.3, ***may*** work on earlier versions
-- Module Manager
-- 
+- [Kerbal Space Program](https://kerbalspaceprogram.com)
+ * [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*)
+
 ### Supports
 - [Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
-<hr>
 
 ### Replaces
 - [Duopods](https://github.com/KSP-CKAN/NetKAN/blob/4fd28bb308cfadc0ffd63c6f37d38785b42a839c/NetKAN/DuoPods.frozen)
+<hr>
 
 <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*" target="_blank"><img src="https://i.imgur.com/YdYfStN.jpg"/></a>
 
