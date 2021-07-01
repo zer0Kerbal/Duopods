@@ -1,6 +1,8 @@
 {
-  "schemaVersion": 1,
-  "label": "DuoPods",
-  "message": "1.0.2.0",
-  "color": "orange"
+ "schemaVersion": 1,
+ "label": "DuoPods",
+ "labelColor": "darkgreen",
+ "message": "1.0.2.0",
+ "color": "orange",
+ "style": "plastic"
 }
