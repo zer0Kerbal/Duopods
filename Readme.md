@@ -1,10 +1,10 @@
-# DuoPods (part duex) )
+# DuoPods (DUO)
 ## formerly DuoPods
 ![DuoPods Version](https://img.shields.io/github/v/release/zer0Kerbal/DuoPods?include_prereleases?style=plastic)
 ![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DuoPods/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License GPLv2](https://img.shields.io/badge/license-GPLv2-lightgrey?style=plastic)  
 ![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)
 
-> ***A stockalike parts mod that supplies up to three two occupant command pods with minimal performance impact *** 
+> ***A stockalike parts mod for Kerbal Space Program that supplies up to three two occupant command pods with minimal performance impact *** 
 ## Author
 DuoPods [2xP] adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/)*** Originally created by [***duopods***](https://spacedock.info/profile/duopods)
 
