@@ -138,7 +138,7 @@ License: ![Expat/MIT][shield:license:original] ![MIT][LOGO:mit]
 
 [LOGO:mit]:     https://i.postimg.cc/bvjfsMP5/MIT-17x17.png  "Expat/MIT"
 
-[shield:license:original]: https://img.shields.io/static/v1?label=License&message=Expat/MIT&color=black&labelColor=red&style=plastic&logo=MIT "MIT"
+[shield:license:original]: https://img.shields.io/static/v1?label=License&message=Expat/MIT&color=darkred&labelColor=black&style=plastic&logo=MIT "MIT"
 
 <!--- license logo urls -->
 [MOD:ckan]:	  https://forum.kerbalspaceprogram.com/index.php?/topic/90246-* "CKAN"
