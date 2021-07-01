@@ -20,9 +20,9 @@ DuoPods [2xP] adopted for curation by ***[@zer0Kerbal][LINK:zer0kerbal] *** Orig
 
 ***
 
-from left to right:
-mk1 (Squad) — mk2a — mk2b — mk2c — mk1-3
-![Duo Pods][IMG:hero:0}
+from left to right:  
+mk1 (Squad) — mk2a — mk2b — mk2c — mk1-3  
+![Duo Pods][IMG:hero:0]  
 ***
 
 ## Description
