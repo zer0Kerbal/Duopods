@@ -33,5 +33,10 @@
 		"MAJOR": 1,
 		"MINOR": 7,
 		"PATCH": 9999
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME" :		  "DuoPods",
+		"DIRECTORY" :	 "KGEx/DuoPods"
 	}
 }
