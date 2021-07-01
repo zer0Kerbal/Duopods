@@ -112,7 +112,7 @@ License: ![License GPLv2][shield:license]
 
 ### Original
 
-Author: [@DuoPodsl][LINK:DuoPods]   
+Author: [@DuoPods][LINK:DuoPods]   
 Forums: none found  
 [Download][MOD:original:download]  
 License: ![Expat/MIT][shield:license:original] ![MIT][LOGO:mit]  
