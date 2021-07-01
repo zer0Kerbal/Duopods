@@ -102,7 +102,6 @@ So you got that first rescue contract but where to put your passenger? If you li
 *red box below is a link to forum post on how to get support*  
 [![How to get support][image:get-support]][thread:getsupport]
 
-
 ### License
 #### aka Legal Mumbo Jumbo
 Source: [GitHub][MOD:github:repo]  
@@ -199,8 +198,9 @@ License: ![Expat/MIT][shield:license:original] ![MIT][LOGO:mit]
 
 
 [thread:mm]:  https://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
-[thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal Changelog"
-[thread:old-duo]: https://github.com/KSP-CKAN/NetKAN/blob/4fd28bb308cfadc0ffd63c6f37d38785b42a839c/NetKAN/DuoPods.frozen "CKAN-duopods"
+[thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal Changelog"  
+  
+[thread:old-dou]: https://github.com/KSP-CKAN/NetKAN/blob/4fd28bb308cfadc0ffd63c6f37d38785b42a839c/NetKAN/DuoPods.frozen "CKAN-duopods"  
 
 [thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-* "Link to how to get support"
 
