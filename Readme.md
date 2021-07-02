@@ -39,63 +39,58 @@ So you got that first rescue contract but where to put your passenger? If you li
 >#### *There are no plans to improve them unless someone submits new ones via PR on github.*
 > #### use the included windows batch file to copy depreciated (and therefore unavailable) mk1-2 textures/models
 
-### Installation Directions 
-- Before installation please delete Duopods folder in KSP/Gamedata/. 
+### Installation Directions  
+- Before installation please delete Duopods folder in KSP/Gamedata/.  
 
 - Use CKAN  
   ![][image:ckan][CKAN][MOD:ckan]  
 
-- Finally, run Windows_CopyTextures.bat (located in GameData/Duopods/) to copy depreciated mk1-2
+- Finally, run Windows_CopyTextures.bat (located in GameData/Duopods/) to copy depreciated mk1-2  
 
-### Changelog Summary
+### Changelog Summary  
+- *See [ChangeLog][MOD:changelog] for full details of mod changes*  
 
-- *See [ChangeLog][MOD:changelog] for full details of mod changes*
+### Known Issues  
+- *See [Known Issues][MOD:issues] for full details of feature requests, and known issues*  
 
-### Known Issues
+### Dependencies  
+ - [x]  [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions ]/YMMV/  
+ - [x] [Module Manager][thread:mm]  [](^1)   
 
-- *See [Known Issues][MOD:issues] for full details of feature requests, and known issues*
+   [^1]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*  
 
-### Dependencies
-
-- [x] [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions ]/YMMV/
-
- - [x] [Module Manager][thread:mm]  [](^1) 
-
-   [^1]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
-
-### Recommends
- - [x] none
+### Recommends  
+ - [x]  none  
 
 ### Suggests
+ - [x]  [On Demand Fuel Cells {ODFC)}][thread:ODFC]  
+ - [x]  [Field Training Facility (FTF)][thread:FTF]  
+ - [x]  [Field Training Lab (FTL)][thread:FTL]  
+ - [x]  [Docking Port Descriptions(DPD)][thread:DPD]  
+ - [x]  [PicoPort Shielded (PPS)][thread:PPS]  
+ - [x]  [Stork Delivery System (SDS)][thread:SDS]  
+ - [x]  [Biomatic][thread:BIO]  
+ - [x]  [B9 Stock Switches (B9S)][thread:B9S]  
+ - [x]  [DaMichel's AeroRadial][thread:DAR]  
+ - [x]  [DaMichel's CargoBays][thread:DCB]  
+ - [x]  [DaMichel's Fuselage][thread:DMF]  
+ - [x]  [DaMichel's Spherical Tanks][thread:DST]  
+ - [x]  [Stork Delivery System (SDS)][thread:SDS]  
+ - [x]  [SimpleConstructon!][thread:SC!]  
+ - [x]  [Not So SimpleConstructon!][thread:NSSC]  
+ - [x]  [SimpleLife!][thread:SL!]  
+ - [x]  [MoarKerbals][thread:MK]  
+ - [x]  [KaboOom!][thread:BOOM]    
+ - [x]  [Komplexity][thread:KPLX]  
 
-- [x] [On Demand Fuel Cells {ODFC)}][thread:ODFC]  
-- [x] [Field Training Facility (FTF)][thread:FTF]  
-- [x] [Field Training Lab (FTL)][thread:FTL]  
-- [x] [Docking Port Descriptions(DPD)][thread:DPD]  
-- [x] [PicoPort Shielded (PPS)][thread:PPS]  
-- [x] [Stork Delivery System (SDS)][thread:SDS]
-- [x] [Biomatic][thread:BIO]
-- [x] [B9 Stock Switches (B9S)][thread:B9S] 
-- [x] [DaMichel's AeroRadial][thread:DAR]  
-- [x] [DaMichel's CargoBays][thread:DCB]  
-- [x] [DaMichel's Fuselage][thread:DMF]  
-- [x] [DaMichel's Spherical Tanks][thread:DST]  
-- [x] [Stork Delivery System (SDS)][thread:SDS]  
-- [x] [SimpleConstructon!][thread:SC!]  
-- [x] [Not So SimpleConstructon!][thread:NSSC]   
-- [x] [SimpleLife!][thread:SL!]  
-- [x] [MoarKerbals][thread:MK]  
-- [x] [KaboOom!][thread:BOOM]    
-- [x] [Komplexity][thread:KPLX]  
-
-### Supports
-- [x] [Kerbal Changelog][thread:kcl]      
+### Supports  
+ - [x]  [Kerbal Changelog][thread:kcl]  
 
 ### Conflicts
-- [x] none  
+ - [x]  none  
 
 ### Replaces
-- [Duopods][thread:old-dou]
+ - [x]   [Duopods][thread:old-dou]  
 
 ***
 
