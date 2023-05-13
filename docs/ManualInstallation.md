@@ -19,7 +19,7 @@ based upon work by Lisias -->
 
 [Home](./index.md)
 
-***BLURB***
+A stockalike parts mod that supplies up to three two occupant command pods with minimal performance impact
 
 ## Installation Instructions
 
