@@ -1,48 +1,64 @@
-﻿// Changelog.cfg v1.0.0.1
-// DuoPods
-// created: 01 Aug 2018
-// updated: 24 Feb 2020
+﻿# Changelog
 
-KERBALCHANGELOG //Required to have this name
-{
-	showChangelog = True //To show the changelog, this must be set to True
-	modName = DuoPods //Add your mod's name here
-	VERSION
-	{
-		version = 1.0.2.0
-		change = Room for a Friend! [KSP 1.7.3]
-		change = License: CC BY-NC-SA 4.0	
-		change = converted to use Localization - translations welcomed through GitHub Push Request	
-		change = file structure and modernization	
-		change = added Kerbal Changelog	
-		change = added Readme	
-		change = created github repo	
-		change = created SpaceDock entry	
-		change = created CKAN entry	
-		change = created Curseforge entry	
-		change = created Forum post	
-		change = created .json	
-		change = modernized part.cfg	
-		change = BulkheadProfiles corrected to bulkheadProfiles	
-		change = ModuleToggleCrossfeed	
-		change = formating	
-		change = tweakscale stack (if TweakScale not installed won't affect anything)	
-		change = adjusted category: from structural to Payload 
-		change = converted from +part patches to full part.cfg
-		change = many little changes to patches/parts.	
-	}
-	VERSION
-	{
-		version = 1.0.1.0
-		change = >>-- adoption by zer0Kerbal --<<
-		change = under KGEx in-pipeline-process
-	}
-	VERSION
-	{
-		version = 1.0
-		change = First release!
-	}
-}
+| modName    | DuoPods (DUO)                                                    |
+| ---------- | ---------------------------------------------------------------- |
+| license    | GPL-2.0+ARR                                                      |
+| author     | duopods and zer0Kerbal                                           |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/19094-*/) |
+| github     | (https://github.com/zer0Kerbal/DuoPods)                          |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/DuoPods)             |
+| spacedock  | (https://spacedock.info/mod/2357)                                |
+| ckan       | DuoPods                                                          |
 
-// CC BY-NC-SA-4.0
-// zer0Kerbal
+## Version 1.0.2.0-release `<Room for a Friend!>` edition
+
+* Released
+  * 02 Mar 2020
+  * for Kerbal Space Program 1.7.3
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* Localization
+  * translations welcomed through GitHub Push Request
+* file structure and modernization
+* Add
+  * Kerbal Changelog
+  * Readme
+* Create
+  * github repo
+    * SpaceDock entry
+    * CKAN entry
+    * Curseforge entry
+    * Forum post
+    * .json
+* modernized part.cfg
+* BulkheadProfiles corrected to bulkheadProfiles
+* ModuleToggleCrossfeed
+* formating
+* tweakscale stack (if TweakScale not installed won't affect anything)
+* adjusted category: from structural to Payload
+* converted from +part patches to full part.cfg
+* many little changes to patches/parts.
+
+---
+
+## Version 1.0.1.0-adoption `<Adoption>` edition
+
+* Released
+  * 25 Feb 2020
+  * for Kerbal Space Program 1.7.3
+  * Adopted by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* no changelog
+
+---
+
+## Version 1.0.0.0-release `<Archival>` edition
+
+* Released
+  * 20 Feb 2017
+  * for Kerbal Space Program 1.2.2
+  * by [duopods](https://spacedock.info/profile/duopods)
+
+* First Release!
+
+---
