@@ -5,7 +5,7 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: fourty-two,42,6x7,6times7,6*7,why,why-not,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Why.md  v1.0.0.0
-MOD-NAME (ABBV)
+DuoPods (DUO)
 created:
 updated:
 
@@ -13,7 +13,7 @@ TEMPLATE: Why-not.md v1.1.1.0
 created: 01 Apr 2019
 updated: 29 Apr 2023 -->
 
-## [MOD-NAME (ABBV)][mod]
+## [DuoPods (DUO)][mod]
 
 [Home](/index.md)
 
@@ -32,4 +32,4 @@ THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
 
-[mod]: https://www.curseforge.com/kerbal/ksp-mods/MOD-NAME "MOD-NAME (ABBV)"
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/DuoPods "DuoPods (DUO)"
