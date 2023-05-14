@@ -5,7 +5,7 @@ description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Localizations.md v1.0.0.0
-DuoPods (DUO)
+Doupods (DUO)
 created: 13 May 2023
 updated: 
 
@@ -20,7 +20,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
   <i class="fa fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
 </div>
 
-## [DuoPods (DUO)][mod]
+## [Doupods (DUO)][mod]
 
 [Home](./index.md)
 
@@ -75,4 +75,4 @@ __These localizations for KSP and its DLC's are available through Steam:__
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal
   used with express permission from zer0Kerbal
 
-[mod]: https://www.curseforge.com/kerbal/ksp-mods/DuoPods "DuoPods (DUO)"
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/Doupods "Doupods (DUO)"
