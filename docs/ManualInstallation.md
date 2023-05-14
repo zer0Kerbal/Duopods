@@ -5,7 +5,7 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- ManualInstallation.md v1.0.0.0
-DuoPods (DUO)
+Doupods (DUO)
 created: 13 May 2023
 updated:
 
@@ -15,7 +15,7 @@ updated: 26 Apr 2023
 
 based upon work by Lisias -->
 
-## [DuoPods (DUO)][mod]
+## [Doupods (DUO)][mod]
 
 [Home](./index.md)
 
@@ -29,32 +29,32 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the `DuoPods` folder inside your Kerbal Space Program's GameData folder:
+To install, place the `Doupods` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/DuoPods`
-* Extract the package's `DuoPods/` folder into your KSP's GameData folder as follows:
-  * `<PACKAGE>/DuoPods` --> `<KSP_ROOT>/GameData`
+  * Delete `<KSP_ROOT>/GameData/Doupods`
+* Extract the package's `Doupods/` folder into your KSP's GameData folder as follows:
+  * `<PACKAGE>/Doupods` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/DuoPods`
+  * you should end up with `<KSP_ROOT>/GameData/Doupods`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/DuoPods`
+  * Delete `<KSP_ROOT>/GameData/Doupods`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/DuoPods`
+  * you should end up with `<KSP_ROOT>/GameData/Doupods`
 
 ## The following file layout must be present after installation
 
 ```markdown
 <KSP_ROOT>
   + [GameData]
-    + [DuoPods]
+    + [Doupods]
       + [Agencies]
         ...
       + [Compatibility]
@@ -77,7 +77,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
       * changelog.md
       * License.txt
       * readme.htm
-      * DuoPods.version
+      * Doupods.version
     ...
     * [ModularManagement][MM] or [Module Manager][omm]
     * ModuleManager.ConfigCache
@@ -97,4 +97,4 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
 
-[mod]: https://www.curseforge.com/kerbal/ksp-mods/DuoPods "DuoPods (DUO)"
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/Doupods "Doupods (DUO)"
