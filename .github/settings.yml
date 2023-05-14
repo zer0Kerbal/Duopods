@@ -8,7 +8,7 @@
 
 repository:
   # The name of the repository. Changing this will rename the repository
-  name: DuoPods
+  name: Duopods
 
   # A short description of the repository that will show up on GitHub
   description: A stockalike parts mod that supplies up to three two occupant command pods with minimal performance impact for Kerbal Space Program.
