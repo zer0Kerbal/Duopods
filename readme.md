@@ -162,7 +162,7 @@ Comment, click, like, share, up-vote, subscribe
 [attrb]: https://zer0kerbal.github.io/DuoPods/Attributions "Attribution"
 [chlog]: https://raw.githubusercontent.com/zer0Kerbal/DuoPods/master/changelog.md  "Changelog"
 [discu]: https://github.com/zer0Kerbal/DuoPods/discussions "Discussions"
-[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192094-*/ "DuoPods Forum Thread"
+[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192094-*/ "DuoPods (DUO)"
 [instal]: https://zer0kerbal.github.io/DuoPods/ManualInstallation "Guide"
 [issue]: https://github.com/zer0Kerbal/DuoPods/issues "Issues"
 [markt]: https://zer0kerbal.github.io/DuoPods/Marketing "Marketing Slicks"
