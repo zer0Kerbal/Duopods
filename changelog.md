@@ -1,14 +1,14 @@
 ﻿# Changelog
 
-| modName    | DuoPods (DUO)                                                    |
+| modName    | Doupods (DUO)                                                    |
 | ---------- | ---------------------------------------------------------------- |
 | license    | GPL-2.0+ARR                                                      |
 | author     | duopods and zer0Kerbal                                           |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/19094-*/) |
-| github     | (https://github.com/zer0Kerbal/DuoPods)                          |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/DuoPods)             |
+| github     | (https://github.com/zer0Kerbal/Doupods)                          |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Doupods)             |
 | spacedock  | (https://spacedock.info/mod/2357)                                |
-| ckan       | DuoPods                                                          |
+| ckan       | Doupods                                                          |
 
 ## Version 1.0.2.0-release `<Room for a Friend!>` edition
 
