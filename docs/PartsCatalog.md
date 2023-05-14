@@ -5,7 +5,7 @@ description: Bill, what are going to do tonight? Why Jeb, the same thing we do e
 tags: parts,invoice,catalog,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- PartsCatalog.md v1.0.0.0
-DuoPods (DUO)
+Doupods (DUO)
 created: 13 May 2023
 updated: 
 
@@ -16,7 +16,7 @@ updated: 01 May 2023 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
-## [DuoPods (DUO)][mod]
+## [Doupods (DUO)][mod]
 
 [Home](./index.md)
 
@@ -29,7 +29,7 @@ This add-on adds nine (9) resource parts
 * Mallet *(Only with Kerbal Inventory System installed)*
 * SurveyStake
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/DuoPods/master/GameData/DuoPods/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/DuoPods/master/GameData/DuoPods/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/Doupods/master/GameData/Doupods/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/Doupods/master/GameData/Doupods/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
 
 * MicroPad
 * OrbitalDock
@@ -41,4 +41,4 @@ This add-on adds nine (9) resource parts
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
 
-[mod]: https://www.curseforge.com/kerbal/ksp-mods/DuoPods "DuoPods (DUO)"
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/Doupods "Doupods (DUO)"
