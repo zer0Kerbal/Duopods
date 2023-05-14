@@ -48,6 +48,10 @@
   * for Kerbal Space Program 1.7.3
   * Adopted by [zer0Kerbal](https://github.com/zer0Kerbal)
 
+* 📌 Pinned
+  * Dependencies:
+    * [ModularManagement (MM)](https://www.curseforge.com/kerbal/ksp-mods/ModularManagement)
+
 * no changelog
 
 ---
