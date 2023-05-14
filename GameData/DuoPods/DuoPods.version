@@ -1,12 +1,12 @@
 {
-	"NAME":"DuoPods",
-	"URL":            "https://raw.githubusercontent.com/zer0Kerbal/DuoPods/DuoPods.version",
-	"DOWNLOAD":       "https://github.com/zer0Kerbal/DuoPods/releases/latest",
-	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/zer0Kerbal/DuoPods/master/Changelog.cfg",
+	"NAME":"Doupods",
+	"URL":            "https://raw.githubusercontent.com/zer0Kerbal/Doupods/Doupods.version",
+	"DOWNLOAD":       "https://github.com/zer0Kerbal/Doupods/releases/latest",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/zer0Kerbal/Doupods/master/Changelog.cfg",
     "GITHUB":
     {
         "USERNAME":          "zer0Kerbal",
-        "REPOSITORY":        "DuoPods",
+        "REPOSITORY":        "Doupods",
         "ALLOW_PRE_RELEASE": false
     },
 	"VERSION":
