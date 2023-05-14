@@ -1,8 +1,8 @@
 {
 	"schedule": "weekly",
 	"ignoredFiles": [
-		"GameData/KGEx/DuoPods/*",
-		"GameData/KerbalSimpleCo/DuoPods/*",
+		"GameData/KGEx/Doupods/*",
+		"GameData/KerbalSimpleCo/Doupods/*",
 		"source/*",
 		"**/@thumbs/**",
 		"**/Agencies/**",
