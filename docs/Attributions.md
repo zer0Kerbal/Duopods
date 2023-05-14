@@ -6,7 +6,7 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!--
 Attributions.md v1.0.0.0
-DuoPods (DUO)
+Doupods (DUO)
 created: 13 May 2023
 updated: 
 
@@ -19,7 +19,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-## [DuoPods (DUO)][mod]
+## [Doupods (DUO)][mod]
 
 [Home](./index.md)
 
@@ -86,4 +86,4 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal
   used with express permission from zer0Kerbal
 
-[mod]: https://www.curseforge.com/kerbal/ksp-mods/DuoPods "DuoPods"
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/Doupods "Doupods"
